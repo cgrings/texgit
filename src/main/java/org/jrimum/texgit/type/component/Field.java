@@ -29,9 +29,9 @@
 package org.jrimum.texgit.type.component;
 
 import static java.lang.String.format;
-import static org.apache.commons.lang.StringUtils.EMPTY;
-import static org.apache.commons.lang.StringUtils.isBlank;
-import static org.apache.commons.lang.StringUtils.isNumeric;
+import static org.apache.commons.lang3.StringUtils.EMPTY;
+import static org.apache.commons.lang3.StringUtils.isBlank;
+import static org.apache.commons.lang3.StringUtils.isNumeric;
 import static org.jrimum.utilix.Objects.isNotNull;
 
 import java.lang.reflect.Constructor;
